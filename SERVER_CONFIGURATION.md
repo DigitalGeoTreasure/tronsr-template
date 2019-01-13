@@ -1,1 +1,1 @@
-Describe your server configuration
+For now, there is no Nodeserver at all. But To reach our goal, we need to host an own node. In the future, we will invest into a modern machine which suite the conditions of an Tronnode (64 CPU etc.).
