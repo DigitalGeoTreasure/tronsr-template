@@ -1,4 +1,2 @@
 DigitalGeoTreasure will create a new user experience in the world of GeoCaching together with the opportunity of the blockchain. 
 This will be one of the first usecase for the Tronnetwork together with real world activities. Arkording to "https://en.wikipedia.org/wiki/Geocaching" there are millions GeoCaches and players in over 200 countries. We would like to bring this players the blockchaintechnology to there favorit game.
-
-To reach this goal, we decided to be a Representative on the Tron network. By voting for us, you will give us the opportunity to create a platform, where the GeoCacheplayers can interact with a virtual treasure hunt. As a Reward for votes, we will give our voters a token called DigitalGeoTreasureReward (DGTR). This token can only be rewarded through voting and will be tradeable in the future on the DEX of the Tronnetwork.
